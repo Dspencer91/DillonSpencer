@@ -32,6 +32,7 @@
 .links {
   padding-top: 26px;
 }
+
 .links a {
   color: black;
   font-size: 25px;
@@ -46,13 +47,16 @@ header {
 
 hr {
   clear:both;
+
 }
 h1 {
   font-family: 'source_sans_probold_italic';
   font-weight: bold;
   font-size: 48px;
+  text-align: center;
 }
 
 h2 {
-font-family: 'source_sans_probold_italic';
+  font-family: 'source_sans_probold_italic';
+  text-align: right;
 }
